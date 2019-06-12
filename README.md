@@ -1,4 +1,4 @@
-# Inventio Max
+# POS by Cweb
 Sistema de inventario y ventas by Cweb
 Link: http://contratistasweb.com/
 
