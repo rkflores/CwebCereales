@@ -1,6 +1,6 @@
 # Inventio Max
-Sistema de inventario y ventas profesional
-Link: http://evilnapsis.com/product/inventio-max/
+Sistema de inventario y ventas by Cweb
+Link: http://contratistasweb.com/
 
 ## Modulos
 
@@ -11,6 +11,5 @@ Link: http://evilnapsis.com/product/inventio-max/
 - Clientes
 - Finanzas
 - Reportes
-- y Mucho mas
 
-`Powered By Evilnapsis`# CwebCereales
+`Powered By Cweb
