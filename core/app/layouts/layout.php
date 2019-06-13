@@ -42,9 +42,9 @@
         <!-- Logo -->
         <a href="./" class="logo">
           <!-- mini logo for sidebar mini 50x50 pixels -->
-          <span class="logo-mini"><b>M</b>B</span>
+          <span class="logo-mini"><b>Z</b>W</span>
           <!-- logo for regular state and mobile devices -->
-          <span class="logo-lg">Materiales<b> Boulevard</b></span>
+          <span class="logo-lg">Zerial<b> Web</b></span>
         </a>
 
         <!-- Header Navbar -->
@@ -367,7 +367,8 @@ if( $q==0 ||  $q<=$product->inventary_min){
         <?php else:?>
 <div class="login-box" >
       <div class="login-logo">
-        <center><img src='logo1.png' border='2' width='200' height='250'></center>
+        <center><img src='logo1.png' border='2' width='220' height='200'></center>
+          <a href="./">Zerial<b>Web</b></a>
       </div><!-- /.login-logo -->
       <div class="login-box-body" >
         <form action="./?action=processlogin" method="post">
