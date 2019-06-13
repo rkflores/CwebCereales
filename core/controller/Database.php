@@ -3,7 +3,7 @@ class Database {
 	public static $db;
 	public static $con;
 	function Database(){
-		$this->user="contrat5_admin";$this->pass="Tomatito123";$this->host="localhost";$this->ddbb="contrat5_POSmatbou";
+		$this->user="masclicks";$this->pass="masclicks";$this->host="localhost";$this->ddbb="Cweb";
 		//$this->user="evilnaps_admin";$this->pass="l00lapal00za";$this->host="localhost";$this->ddbb="evilnaps_pvm";
 	}
 
