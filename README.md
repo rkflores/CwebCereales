@@ -1,6 +1,6 @@
-# POS by Cweb
-Sistema de inventario y ventas by Cweb
-Link: http://contratistasweb.com/
+# POS by rkf
+Sistema de inventario y ventas
+Link: https://rikrdofti.uc.r.appspot.com/
 
 ## Modulos
 
@@ -11,5 +11,3 @@ Link: http://contratistasweb.com/
 - Clientes
 - Finanzas
 - Reportes
-
-`Powered By Cweb
